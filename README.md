@@ -4,6 +4,8 @@ A 3D rendering of the classic Pac-Man maze built with OpenGL and FreeGLUT in C++
 
 ## Preview
 
+![3D Pacman Map](pacmanscreenshot.png)
+
 The scene is rendered from a top-down perspective with a 3D camera, showing:
 - 🟡 **Pac-Man** — yellow sphere positioned at his starting location
 - 👻 **4 Ghosts** — Blinky (red), Pinky (pink), Inky (teal), and Clyde (orange), each rendered with a sphere head and cylinder body
